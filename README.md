@@ -1,4 +1,8 @@
-### Hi there 👋
+### Khusamov Sukhrob 👋
+
+Full-stack developer: ReactJS, Sencha Ext JS, Node.js, TypeScript, PostgreSQL.
+
+
 
 <!--
 **khusamov/khusamov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
