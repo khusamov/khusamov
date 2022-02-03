@@ -1,6 +1,6 @@
 ### Khusamov Sukhrob 🇷🇺
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khusamov)](https://git.io/streak-stats)
 
 
 Core competencies
@@ -46,6 +46,12 @@ I use tools
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khusamov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khusamov)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=khusamov&bg_color=FFFFFF&color=000000&line=000000&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
