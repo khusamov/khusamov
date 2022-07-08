@@ -1,4 +1,4 @@
-### Khusamov Sukhrob 🇷🇺
+### Khusamov Sukhrob
 
 Core competencies
 
